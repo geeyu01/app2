@@ -1,0 +1,141 @@
+
+.startPoint{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    right: 100px;
+    bottom: 100px;
+    z-index: 899998989;
+    background: black;
+    border: none;
+    outline: none;
+    cursor: pointer;
+
+}
+
+#section01{
+    height: 1284px;
+    background-image: url("../img/main_bg.png");
+}
+
+
+.phone3 {
+    position: absolute;
+    left: 1328px;
+    top: 231px;
+    Z-index:3; 
+}
+
+
+.test3 {
+    position: absolute;
+    left: 464px;
+    top: 422px;
+    Z-index:2; 
+  
+}
+
+
+
+
+
+#section01 .tltle{
+    position: absolute;
+    left: 466px;
+    top: 121px;
+}
+
+#section01 .tltle .tltle2{
+    position: absolute;
+    left: 1px;
+    top: 167px;
+}
+
+#section01 .mountain{
+    position: absolute;
+    left: 0;
+    bottom: -1px;
+}
+
+#section01 .boy{
+    position: absolute;
+    left: 5px;
+    bottom: 0;
+}
+
+#section01 .orange{
+    position: absolute;
+    left: 276px;
+    bottom: 0;
+}
+#section01 .light{
+    position: absolute;
+    left: 275px;
+    bottom: 482px;
+}
+#section01 .phone{
+    position: absolute;
+    left: 447px;
+    top: 407px;
+}
+
+#section01 .box{
+    position: absolute;
+    left: 882px;
+    top: 687px;
+}
+
+#section01 .box .box1{
+    position: absolute;
+    left: 190px;
+    top: 32px;
+}
+#section01 .box .bung{
+    position: absolute;
+    left: 14px;
+    bottom: 13px;
+}
+
+#section01 .box .box2{
+    position: absolute;
+    left: 318px;
+    top: -197px;
+}
+
+#section01 .box .box2 .app{
+    position: absolute;
+    left: 86px;
+    bottom: 13px;
+}
+
+#section01 .box .box3{
+    position: absolute;
+    left: 0;
+    top: 191px;
+}
+#section01 .box .box4{
+    position: absolute;
+    left: 675px;
+    top: 368px;
+}
+
+#section02{
+    height: 415px;
+    background: #fadddb;
+}
+
+#section03{
+    height: 1119px;
+    background: white;
+}
+
+#section04{
+    height: 3569px;
+    background-image: url(../img/yellow_bg.jpg);
+}
+
+#footer{
+    height: 754px;
+    background: white;
+    /*background-image: url("");*/
+}
